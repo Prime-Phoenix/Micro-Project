@@ -4,7 +4,7 @@ pandas
 matplotlib
 joblib
 shap
-scikit-learn==1.5.2
+scikit-learn==1.9.1
 xgboost
 lightgbm
 imbalanced-learn
