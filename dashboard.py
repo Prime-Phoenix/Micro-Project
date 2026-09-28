@@ -22,7 +22,7 @@ import streamlit as st
 # ----------------------------------------------------------------------
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data-dir", default="C:/Documents/Programms/Data_Science/micro_project")
+    parser.add_argument("--data-dir", default="micro_project")
     if "--" in sys.argv:
         argv = sys.argv[sys.argv.index("--") + 1:]
     else:
