@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+matplotlib
+joblib
+shap
+scikit-learn==<version you trained with>
+xgboost
+lightgbm
+imbalanced-learn
